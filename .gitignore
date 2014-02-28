@@ -1,0 +1,10 @@
+#Ignore the following files:
+
+
+#Ignore the following folders:
+bin/*
+tmp/*
+include/*
+lib/*
+local/*
+

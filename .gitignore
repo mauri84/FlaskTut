@@ -1,5 +1,6 @@
 #Ignore the following files:
-
+*.pyc
+*.log
 
 #Ignore the following folders:
 bin/*

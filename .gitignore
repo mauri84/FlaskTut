@@ -1,6 +1,7 @@
 #Ignore the following files:
 *.pyc
 *.log
+*.db
 
 #Ignore the following folders:
 bin/*
@@ -8,4 +9,5 @@ tmp/*
 include/*
 lib/*
 local/*
+db_repository/*
 

@@ -23,3 +23,6 @@ MAIL_PASSWORD = None
 
 # Admin list
 ADMINS = ['mmfleischer@gmail.com']
+
+#Pagination
+POSTS_PER_PAGE = 3

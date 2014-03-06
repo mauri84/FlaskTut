@@ -25,3 +25,9 @@ class EditForm(Form):
             self.nickname.error.append('This nickname is already in use. Please choose another one.')
             return False
         return True
+
+class PostForm(Form):
+    post = TextField('post', validators = [Required()])
+
+
+

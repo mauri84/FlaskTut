@@ -10,4 +10,6 @@ include/*
 lib/*
 local/*
 db_repository/*
-
+app/static/css/*
+app/static/img/*
+app/static/js/*

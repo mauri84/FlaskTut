@@ -3,6 +3,7 @@
 
 {% block content %}
     <h1>Search results for "{{ query }}": {{ number_results }}</h1>
+    {% include 'flash.html' %}
     {% for post in results %}
         {% include 'post.html' %}
     {% endfor %}
